@@ -1,0 +1,156 @@
+fileFormatVersion: 2
+guid: 423be96d4bccd934eaaf6cf8cdc39b31
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable:
+  - first:
+      74: 3128072630909725634
+    second: Camera.001|Camera.001Action
+  - first:
+      74: 1348298776187300520
+    second: Camera.001|EmptyAction.002
+  - first:
+      74: 6813923541592312943
+    second: Camera.001|long shot carAction
+  - first:
+      74: -5490105710352717227
+    second: Camera.001|overhead cameraAction
+  - first:
+      74: -6752173455931761488
+    second: long shot car|Camera.001Action
+  - first:
+      74: -8375000864296464442
+    second: long shot car|EmptyAction.002
+  - first:
+      74: -7466230798882396745
+    second: long shot car|long shot carAction
+  - first:
+      74: -385405423428605694
+    second: long shot car|overhead cameraAction
+  - first:
+      74: 1270286198957330460
+    second: over_head_car|Camera.001Action
+  - first:
+      74: 4762507059465038612
+    second: over_head_car|EmptyAction.002
+  - first:
+      74: 2698707230131886661
+    second: over_head_car|long shot carAction
+  - first:
+      74: 8425428582696261016
+    second: over_head_car|overhead cameraAction
+  - first:
+      74: -4530144509345634708
+    second: overhead camera|Camera.001Action
+  - first:
+      74: 834719932679523535
+    second: overhead camera|EmptyAction.002
+  - first:
+      74: 8389483523728632536
+    second: overhead camera|long shot carAction
+  - first:
+      74: 7322960450167229992
+    second: overhead camera|overhead cameraAction
+  - first:
+      74: 7325699280812771747
+    second: Empty|Camera.001Action
+  - first:
+      74: 6564253511010156824
+    second: Empty|EmptyAction.002
+  - first:
+      74: -7780162261887152414
+    second: Empty|long shot carAction
+  - first:
+      74: 8734744799145722398
+    second: Empty|overhead cameraAction
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
